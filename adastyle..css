@@ -1,0 +1,50 @@
+.Cinza{
+    width: 1430px;
+    height: 915px;
+    background-color: gray;
+
+}
+.imagAda{
+    background-image: url(https://ctrlplay.com.br/wp-content/uploads/2019/08/Ada-WomenThatDid.jpg);
+    background-size: auto;
+    width: 600px;
+    height: 700px;
+    position: relative;
+    background-position-x: center;
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    margin-left: 12%;
+    
+
+}
+.Branco{
+    background-color: white;
+    width: 815px;
+    height: 850px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+}
+.titulo{
+    font-size: 80px;
+    font-style: italic;
+    text-align: center;
+    width: 780px;
+    height: 100px;
+    background-color: gray;
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+
+}
+.text{
+    position: absolute;
+    text-align: justify;
+    top: 21%;
+    left: 60%;
+    width: 35%;
+    font-size: 20px;
+    color: black;
+    }
